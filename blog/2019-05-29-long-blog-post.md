@@ -2,11 +2,9 @@
 slug: long-blog-post
 title: Long Blog Post added
 authors: newUser
-tags:
-  - hello
-  - docusaurus
-thumbnail: https://www.istockphoto.com/photo/portrait-of-beautiful-tabby-cat-gm1291082120-386296798?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcat&utm_term=cat%3A%3Asearch-aggressive-affiliates-v1%3Ab
+tags: [hello, docusaurus]
 ---
+
 This is the summary of a very long blog post added
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
