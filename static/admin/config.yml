@@ -15,4 +15,5 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Authors', name: 'authors', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
