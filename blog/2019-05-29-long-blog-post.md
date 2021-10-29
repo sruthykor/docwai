@@ -1,8 +1,10 @@
 ---
 slug: long-blog-post
-title: Long Blog Post added
+title: Long Blog Post added 10:08pm
 authors: endi
-tags: [hello, docusaurus]
+tags:
+  - hello
+  - docusaurus
 ---
 
 This is the summary of a very long blog post added
