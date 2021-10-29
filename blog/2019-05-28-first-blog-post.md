@@ -1,6 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
+thumbnail: 'img/docusaurus.png'
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
